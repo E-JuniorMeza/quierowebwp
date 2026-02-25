@@ -1,0 +1,2159 @@
+# Copyright (C) 2025 Egens Lab
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: GoFly 1.5.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gofly\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-11T06:47:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: gofly\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "GoFly"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.gofly-wp.egenslab.com/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "GoFly is a modern, responsive, and feature-rich WordPress theme designed for travel agencies, tour operators, and online booking platforms. Whether you’re offering tours, hotels, visa services, or unique travel experiences, GoFly provides a powerful all-in-one solution to manage your business online. With advanced booking functionality, customizable layouts, multilingual support, and seamless payment integration, GoFly helps you attract global travelers, showcase destinations, and increase bookings effortlessly."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: inc/footer/helper.php:88
+msgid "Egens Lab"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://themeforest.net/user/egenslab/"
+msgstr ""
+
+#: 404.php:56
+#: 404.php:64
+#: 404.php:65
+#: 404.php:102
+#: 404.php:104
+#: 404.php:109
+#: 404.php:110
+#: helpers/custom-with-ajax.php:161
+#: helpers/custom-with-ajax.php:340
+#: helpers/custom-with-ajax.php:859
+#: inc/experience/archive.php:36
+#: inc/tour/archive-grid.php:46
+#: inc/tour/archive.php:37
+#: search-tour.php:95
+#: taxonomy-experience-category.php:53
+#: taxonomy-experience-offer.php:53
+#: taxonomy-experience-service.php:53
+#: taxonomy-experience-type.php:53
+#: taxonomy-tour-category.php:53
+#: taxonomy-tour-language.php:53
+#: taxonomy-tour-service.php:52
+#: taxonomy-tour-tag.php:53
+#: taxonomy-tour-type.php:53
+msgid "image"
+msgstr ""
+
+#: 404.php:81
+msgid "Oops! Looks like you’ve taken a wrong turn."
+msgstr ""
+
+#: 404.php:82
+msgid "The page you’re looking for doesn’t exist. Let’s get you back on track!"
+msgstr ""
+
+#: 404.php:85
+#: 404.php:91
+msgid "Go to Homepage"
+msgstr ""
+
+#: archive-destination.php:44
+#: taxonomy-destination-continent.php:46
+#: taxonomy-destination-location.php:45
+msgid "Tours "
+msgstr ""
+
+#: archive-experience.php:55
+#: archive-hotel.php:59
+#: archive-tour.php:55
+#: archive-visa.php:68
+#: author.php:56
+#: category.php:52
+#: date.php:51
+#: helpers/custom-with-ajax.php:668
+#: helpers/custom-with-ajax.php:1077
+#: helpers/custom-with-ajax.php:1398
+#: helpers/helper.php:1199
+#: inc/blog/templates/common/pagination.php:21
+#: page-tour-grid.php:64
+#: search-tour.php:279
+#: search-visa.php:68
+#: tag.php:51
+#: taxonomy-experience-category.php:233
+#: taxonomy-experience-offer.php:233
+#: taxonomy-experience-service.php:233
+#: taxonomy-experience-type.php:233
+#: taxonomy-hotel-amenity.php:178
+#: taxonomy-hotel-category.php:178
+#: taxonomy-hotel-location.php:178
+#: taxonomy-hotel-tag.php:178
+#: taxonomy-location.php:51
+#: taxonomy-tour-category.php:237
+#: taxonomy-tour-language.php:237
+#: taxonomy-tour-service.php:234
+#: taxonomy-tour-tag.php:237
+#: taxonomy-tour-type.php:237
+#: taxonomy-visa-category.php:65
+#: taxonomy-visa-citizenships.php:65
+#: taxonomy-visa-countries.php:65
+#: taxonomy-visa-residents.php:65
+#: woocommerce/archive-product.php:76
+msgid "Prev"
+msgstr ""
+
+#: archive-experience.php:66
+#: archive-hotel.php:70
+#: archive-tour.php:66
+#: archive-visa.php:79
+#: author.php:67
+#: category.php:63
+#: date.php:62
+#: helpers/custom-with-ajax.php:678
+#: helpers/custom-with-ajax.php:1087
+#: helpers/custom-with-ajax.php:1408
+#: helpers/helper.php:1220
+#: inc/blog/templates/common/pagination.php:32
+#: page-tour-grid.php:75
+#: search-tour.php:290
+#: search-visa.php:79
+#: tag.php:62
+#: taxonomy-experience-category.php:244
+#: taxonomy-experience-offer.php:244
+#: taxonomy-experience-service.php:244
+#: taxonomy-experience-type.php:244
+#: taxonomy-hotel-amenity.php:189
+#: taxonomy-hotel-category.php:189
+#: taxonomy-hotel-location.php:189
+#: taxonomy-hotel-tag.php:189
+#: taxonomy-location.php:62
+#: taxonomy-tour-category.php:248
+#: taxonomy-tour-language.php:248
+#: taxonomy-tour-service.php:245
+#: taxonomy-tour-tag.php:248
+#: taxonomy-tour-type.php:248
+#: taxonomy-visa-category.php:76
+#: taxonomy-visa-citizenships.php:76
+#: taxonomy-visa-countries.php:76
+#: taxonomy-visa-residents.php:76
+#: woocommerce/archive-product.php:87
+msgid "Next"
+msgstr ""
+
+#: archive-visa.php:39
+#: search-visa.php:39
+#: taxonomy-visa-category.php:36
+#: taxonomy-visa-citizenships.php:36
+#: taxonomy-visa-countries.php:36
+#: taxonomy-visa-residents.php:36
+msgid "Processing Time"
+msgstr ""
+
+#: helpers/breadcrumb.php:25
+#: helpers/breadcrumb.php:27
+msgid "Home"
+msgstr ""
+
+#: helpers/breadcrumb.php:119
+msgid "404"
+msgstr ""
+
+#: helpers/breadcrumb.php:201
+#: helpers/helper.php:713
+#: helpers/helper.php:724
+#: helpers/helper.php:871
+#: inc/blog/helper.php:306
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: helpers/comments.php:33
+msgid "Reply"
+msgstr ""
+
+#: helpers/comments.php:85
+msgid "Save my name, email in this browser for the next time I comment."
+msgstr ""
+
+#: helpers/custom-with-ajax.php:181
+#: helpers/custom-with-ajax.php:371
+#: helpers/custom-with-ajax.php:879
+#: helpers/custom-with-ajax.php:1250
+#: inc/experience/archive.php:56
+#: inc/hotel/archive.php:23
+#: inc/tour/archive-grid.php:77
+#: inc/tour/archive.php:57
+#: search-tour.php:115
+#: taxonomy-experience-category.php:73
+#: taxonomy-experience-offer.php:73
+#: taxonomy-experience-service.php:73
+#: taxonomy-experience-type.php:73
+#: taxonomy-hotel-amenity.php:37
+#: taxonomy-hotel-category.php:37
+#: taxonomy-hotel-location.php:37
+#: taxonomy-hotel-tag.php:37
+#: taxonomy-tour-category.php:73
+#: taxonomy-tour-language.php:73
+#: taxonomy-tour-service.php:71
+#: taxonomy-tour-tag.php:73
+#: taxonomy-tour-type.php:73
+msgid "Sale on!"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:187
+#: helpers/custom-with-ajax.php:377
+#: helpers/custom-with-ajax.php:1253
+#: inc/hotel/archive.php:26
+#: inc/tour/archive-grid.php:83
+#: inc/tour/archive.php:63
+#: search-tour.php:121
+#: taxonomy-hotel-amenity.php:40
+#: taxonomy-hotel-category.php:40
+#: taxonomy-hotel-location.php:40
+#: taxonomy-hotel-tag.php:40
+#: taxonomy-tour-category.php:79
+#: taxonomy-tour-language.php:79
+#: taxonomy-tour-service.php:77
+#: taxonomy-tour-tag.php:79
+#: taxonomy-tour-type.php:79
+msgid "Featured"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:251
+#: helpers/custom-with-ajax.php:258
+#: helpers/custom-with-ajax.php:458
+#: helpers/custom-with-ajax.php:465
+#: helpers/custom-with-ajax.php:585
+#: helpers/custom-with-ajax.php:592
+#: helpers/custom-with-ajax.php:945
+#: helpers/custom-with-ajax.php:952
+#: helpers/custom-with-ajax.php:1316
+#: helpers/custom-with-ajax.php:1323
+#: inc/experience/archive.php:122
+#: inc/experience/archive.php:129
+#: inc/hotel/archive.php:115
+#: inc/hotel/archive.php:122
+#: inc/tour/archive-grid.php:164
+#: inc/tour/archive-grid.php:171
+#: inc/tour/archive-grid.php:291
+#: inc/tour/archive-grid.php:298
+#: inc/tour/archive.php:127
+#: inc/tour/archive.php:134
+#: search-tour.php:185
+#: search-tour.php:192
+#: taxonomy-experience-category.php:139
+#: taxonomy-experience-category.php:146
+#: taxonomy-experience-offer.php:139
+#: taxonomy-experience-offer.php:146
+#: taxonomy-experience-service.php:139
+#: taxonomy-experience-service.php:146
+#: taxonomy-experience-type.php:139
+#: taxonomy-experience-type.php:146
+#: taxonomy-hotel-amenity.php:133
+#: taxonomy-hotel-amenity.php:140
+#: taxonomy-hotel-category.php:133
+#: taxonomy-hotel-category.php:140
+#: taxonomy-hotel-location.php:133
+#: taxonomy-hotel-location.php:140
+#: taxonomy-hotel-tag.php:133
+#: taxonomy-hotel-tag.php:140
+#: taxonomy-tour-category.php:143
+#: taxonomy-tour-category.php:150
+#: taxonomy-tour-language.php:143
+#: taxonomy-tour-language.php:150
+#: taxonomy-tour-service.php:140
+#: taxonomy-tour-service.php:147
+#: taxonomy-tour-tag.php:143
+#: taxonomy-tour-tag.php:150
+#: taxonomy-tour-type.php:143
+#: taxonomy-tour-type.php:150
+msgid "Book Now"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:283
+#: helpers/custom-with-ajax.php:490
+#: helpers/custom-with-ajax.php:977
+#: inc/breadcrumb/templates/breadcrumb-archive.php:61
+#: inc/experience/archive.php:154
+#: inc/tour/archive-grid.php:196
+#: inc/tour/archive.php:159
+#: search-tour.php:217
+#: taxonomy-experience-category.php:171
+#: taxonomy-experience-offer.php:171
+#: taxonomy-experience-service.php:171
+#: taxonomy-experience-type.php:171
+#: taxonomy-tour-category.php:175
+#: taxonomy-tour-language.php:175
+#: taxonomy-tour-service.php:172
+#: taxonomy-tour-tag.php:175
+#: taxonomy-tour-type.php:175
+msgid "Experience"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:303
+#: helpers/custom-with-ajax.php:510
+#: helpers/custom-with-ajax.php:997
+#: inc/experience/archive.php:174
+#: inc/tour/archive-grid.php:216
+#: inc/tour/archive.php:179
+#: search-tour.php:237
+#: taxonomy-experience-category.php:191
+#: taxonomy-experience-offer.php:191
+#: taxonomy-experience-service.php:191
+#: taxonomy-experience-type.php:191
+#: taxonomy-tour-category.php:195
+#: taxonomy-tour-language.php:195
+#: taxonomy-tour-service.php:192
+#: taxonomy-tour-tag.php:195
+#: taxonomy-tour-type.php:195
+msgid "Inclusion"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:393
+#: inc/tour/archive-grid.php:99
+msgid "View Map"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:425
+#: inc/tour/archive-grid.php:131
+msgid "Duration"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:435
+#: inc/tour/archive-grid.php:141
+msgid "Operated"
+msgstr ""
+
+#: helpers/custom-with-ajax.php:452
+#: inc/tour/archive-grid.php:158
+msgid "Destinations"
+msgstr ""
+
+#: helpers/helper.php:243
+msgid "You May Also Like"
+msgstr ""
+
+#: helpers/helper.php:1096
+msgid "Set Menu Here..."
+msgstr ""
+
+#: helpers/helper.php:1154
+#: inc/blog/helper.php:103
+msgid "Pages: "
+msgstr ""
+
+#: helpers/helper.php:1575
+msgid "United Arab Emirates dirham (د.إ) — AED"
+msgstr ""
+
+#: helpers/helper.php:1576
+msgid "Afghan afghani (؋) — AFN"
+msgstr ""
+
+#: helpers/helper.php:1577
+msgid "Albanian lek (Lek) — ALL"
+msgstr ""
+
+#: helpers/helper.php:1578
+msgid "Armenian dram (֏) — AMD"
+msgstr ""
+
+#: helpers/helper.php:1579
+msgid "Argentine peso ($) — ARS"
+msgstr ""
+
+#: helpers/helper.php:1580
+msgid "Australian dollar ($) — AUD"
+msgstr ""
+
+#: helpers/helper.php:1581
+msgid "Aruban florin (ƒ) — AWG"
+msgstr ""
+
+#: helpers/helper.php:1582
+msgid "Azerbaijani manat (₼) — AZN"
+msgstr ""
+
+#: helpers/helper.php:1583
+msgid "Bosnia and Herzegovina convertible mark (KM) — BAM"
+msgstr ""
+
+#: helpers/helper.php:1584
+msgid "Bangladeshi taka (৳) — BDT"
+msgstr ""
+
+#: helpers/helper.php:1585
+msgid "Bulgarian lev (лв) — BGN"
+msgstr ""
+
+#: helpers/helper.php:1586
+msgid "Bahraini dinar (د.ب) — BHD"
+msgstr ""
+
+#: helpers/helper.php:1587
+msgid "Burundian franc (Fr) — BIF"
+msgstr ""
+
+#: helpers/helper.php:1588
+msgid "Bermudian dollar ($) — BMD"
+msgstr ""
+
+#: helpers/helper.php:1589
+msgid "Brunei dollar ($) — BND"
+msgstr ""
+
+#: helpers/helper.php:1590
+msgid "Bolivian boliviano (Bs) — BOB"
+msgstr ""
+
+#: helpers/helper.php:1591
+msgid "Brazilian real (R$) — BRL"
+msgstr ""
+
+#: helpers/helper.php:1592
+msgid "Bahamian dollar ($) — BSD"
+msgstr ""
+
+#: helpers/helper.php:1593
+msgid "Bhutanese ngultrum (Nu) — BTN"
+msgstr ""
+
+#: helpers/helper.php:1594
+msgid "Botswana pula (P) — BWP"
+msgstr ""
+
+#: helpers/helper.php:1595
+msgid "Belarusian ruble (Br) — BYN"
+msgstr ""
+
+#: helpers/helper.php:1596
+msgid "Belize dollar ($) — BZD"
+msgstr ""
+
+#: helpers/helper.php:1597
+msgid "Canadian dollar ($) — CAD"
+msgstr ""
+
+#: helpers/helper.php:1598
+msgid "Congolese franc (Fr) — CDF"
+msgstr ""
+
+#: helpers/helper.php:1599
+msgid "Swiss franc (CHF) — CHF"
+msgstr ""
+
+#: helpers/helper.php:1600
+msgid "Chilean peso ($) — CLP"
+msgstr ""
+
+#: helpers/helper.php:1601
+msgid "Chinese yuan (¥) — CNY"
+msgstr ""
+
+#: helpers/helper.php:1602
+msgid "Colombian peso ($) — COP"
+msgstr ""
+
+#: helpers/helper.php:1603
+msgid "Costa Rican colón (₡) — CRC"
+msgstr ""
+
+#: helpers/helper.php:1604
+msgid "Cuban convertible peso (CUC$) — CUC"
+msgstr ""
+
+#: helpers/helper.php:1605
+msgid "Cuban peso (₱) — CUP"
+msgstr ""
+
+#: helpers/helper.php:1606
+msgid "Cape Verdean escudo ($) — CVS"
+msgstr ""
+
+#: helpers/helper.php:1607
+msgid "Czech koruna (Kč) — CZK"
+msgstr ""
+
+#: helpers/helper.php:1608
+msgid "Djiboutian franc (Fdj) — DJF"
+msgstr ""
+
+#: helpers/helper.php:1609
+msgid "Danish krone (kr) — DKK"
+msgstr ""
+
+#: helpers/helper.php:1610
+msgid "Dominican peso ($) — DOP"
+msgstr ""
+
+#: helpers/helper.php:1611
+msgid "Algerian dinar (دج) — DZD"
+msgstr ""
+
+#: helpers/helper.php:1612
+msgid "Egyptian pound (£) — EGP"
+msgstr ""
+
+#: helpers/helper.php:1613
+msgid "Eritrean nakfa (Nfk) — ERN"
+msgstr ""
+
+#: helpers/helper.php:1614
+msgid "Spanish peseta (₧) — ESP"
+msgstr ""
+
+#: helpers/helper.php:1615
+msgid "Ethiopian birr (ታብ) — ETB"
+msgstr ""
+
+#: helpers/helper.php:1616
+msgid "Euro (€) — EUR"
+msgstr ""
+
+#: helpers/helper.php:1617
+msgid "Fijian dollar ($) — FJD"
+msgstr ""
+
+#: helpers/helper.php:1618
+msgid "Falkland Islands pound (£) — FKP"
+msgstr ""
+
+#: helpers/helper.php:1619
+msgid "British pound sterling (£) — GBP"
+msgstr ""
+
+#: helpers/helper.php:1620
+msgid "Georgian lari (₾) — GEL"
+msgstr ""
+
+#: helpers/helper.php:1621
+msgid "Ghanaian cedi (₵) — GHS"
+msgstr ""
+
+#: helpers/helper.php:1622
+msgid "Gibraltar pound (£) — GIP"
+msgstr ""
+
+#: helpers/helper.php:1623
+msgid "Gambian dalasi (D) — GMD"
+msgstr ""
+
+#: helpers/helper.php:1624
+msgid "Guinean franc (Fr) — GNF"
+msgstr ""
+
+#: helpers/helper.php:1625
+msgid "Guatemalan quetzal (Q) — GTQ"
+msgstr ""
+
+#: helpers/helper.php:1626
+msgid "Guyanese dollar ($) — GYD"
+msgstr ""
+
+#: helpers/helper.php:1627
+msgid "Hong Kong dollar ($) — HKD"
+msgstr ""
+
+#: helpers/helper.php:1628
+msgid "Honduran lempira (L) — HNL"
+msgstr ""
+
+#: helpers/helper.php:1629
+msgid "Croatian kuna (kn) — HRK"
+msgstr ""
+
+#: helpers/helper.php:1630
+msgid "Haitian gourde (G) — HTG"
+msgstr ""
+
+#: helpers/helper.php:1631
+msgid "Hungarian forint (Ft) — HUF"
+msgstr ""
+
+#: helpers/helper.php:1632
+msgid "Indonesian rupiah (Rp) — IDR"
+msgstr ""
+
+#: helpers/helper.php:1633
+msgid "Israeli new shekel (₪) — ILS"
+msgstr ""
+
+#: helpers/helper.php:1634
+msgid "Indian rupee (₹) — INR"
+msgstr ""
+
+#: helpers/helper.php:1635
+msgid "Iraqi dinar (ع.د) — IQD"
+msgstr ""
+
+#: helpers/helper.php:1636
+msgid "Iranian rial (﷼) — IRR"
+msgstr ""
+
+#: helpers/helper.php:1637
+msgid "Icelandic króna (kr) — ISK"
+msgstr ""
+
+#: helpers/helper.php:1638
+msgid "Jamaican dollar ($) — JMD"
+msgstr ""
+
+#: helpers/helper.php:1639
+msgid "Jordanian dinar (د.ا) — JOD"
+msgstr ""
+
+#: helpers/helper.php:1640
+msgid "Japanese yen (¥) — JPY"
+msgstr ""
+
+#: helpers/helper.php:1641
+msgid "Kenyan shilling (Sh) — KES"
+msgstr ""
+
+#: helpers/helper.php:1642
+msgid "Kyrgyzstani som (лв) — KGS"
+msgstr ""
+
+#: helpers/helper.php:1643
+msgid "Cambodian riel (៛) — KHR"
+msgstr ""
+
+#: helpers/helper.php:1644
+msgid "Comorian franc (Fr) — KMF"
+msgstr ""
+
+#: helpers/helper.php:1645
+msgid "South Korean won (₩) — KRW"
+msgstr ""
+
+#: helpers/helper.php:1646
+msgid "Kuwaiti dinar (د.ك) — KWD"
+msgstr ""
+
+#: helpers/helper.php:1647
+msgid "Cayman Islands dollar ($) — KYD"
+msgstr ""
+
+#: helpers/helper.php:1648
+msgid "Kazakhstani tenge (₸) — KZT"
+msgstr ""
+
+#: helpers/helper.php:1649
+msgid "Laotian kip (₭) — LAK"
+msgstr ""
+
+#: helpers/helper.php:1650
+msgid "Lebanese pound (ل.ل) — LBP"
+msgstr ""
+
+#: helpers/helper.php:1651
+msgid "Sri Lankan rupee (රු) — LKR"
+msgstr ""
+
+#: helpers/helper.php:1652
+msgid "Liberian dollar ($) — LRD"
+msgstr ""
+
+#: helpers/helper.php:1653
+msgid "Lesotho loti (M) — LSL"
+msgstr ""
+
+#: helpers/helper.php:1654
+msgid "Lithuanian litas (Lt) — LTL"
+msgstr ""
+
+#: helpers/helper.php:1655
+msgid "Latvian lats (Ls) — LVL"
+msgstr ""
+
+#: helpers/helper.php:1656
+msgid "Libyan dinar (د.ل) — LYD"
+msgstr ""
+
+#: helpers/helper.php:1657
+msgid "Moroccan dirham (د.م.) — MAD"
+msgstr ""
+
+#: helpers/helper.php:1658
+msgid "Moldovan leu (Lei) — MDL"
+msgstr ""
+
+#: helpers/helper.php:1659
+msgid "Malagasy ariary (Ar) — MGA"
+msgstr ""
+
+#: helpers/helper.php:1660
+msgid "Macedonian denar (ден) — MKD"
+msgstr ""
+
+#: helpers/helper.php:1661
+msgid "Myanmar kyat (Ks) — MMK"
+msgstr ""
+
+#: helpers/helper.php:1662
+msgid "Mongolian tögrög (₮) — MNT"
+msgstr ""
+
+#: helpers/helper.php:1663
+msgid "Macanese pataca (P) — MOP"
+msgstr ""
+
+#: helpers/helper.php:1664
+msgid "Mauritian rupee (₨) — MUR"
+msgstr ""
+
+#: helpers/helper.php:1665
+msgid "Maldivian rufiyaa (Rf) — MVR"
+msgstr ""
+
+#: helpers/helper.php:1666
+msgid "Malawian kwacha (K) — MWK"
+msgstr ""
+
+#: helpers/helper.php:1667
+msgid "Mexican peso ($) — MXN"
+msgstr ""
+
+#: helpers/helper.php:1668
+msgid "Malaysian ringgit (RM) — MYR"
+msgstr ""
+
+#: helpers/helper.php:1669
+msgid "Mozambican metical (MT) — MZN"
+msgstr ""
+
+#: helpers/helper.php:1670
+msgid "Namibian dollar ($) — NAD"
+msgstr ""
+
+#: helpers/helper.php:1671
+msgid "Nigerian naira (₦) — NGN"
+msgstr ""
+
+#: helpers/helper.php:1672
+msgid "Nicaraguan córdoba (C$) — NIO"
+msgstr ""
+
+#: helpers/helper.php:1673
+msgid "Norwegian krone (kr) — NOK"
+msgstr ""
+
+#: helpers/helper.php:1674
+msgid "Nepalese rupee (₨) — NPR"
+msgstr ""
+
+#: helpers/helper.php:1675
+msgid "New Zealand dollar ($) — NZD"
+msgstr ""
+
+#: helpers/helper.php:1676
+msgid "Omani rial (ر.ع.) — OMR"
+msgstr ""
+
+#: helpers/helper.php:1677
+msgid "Panamanian balboa (B/. ) — PAB"
+msgstr ""
+
+#: helpers/helper.php:1678
+msgid "Peruvian nuevo sol (S/.) — PEN"
+msgstr ""
+
+#: helpers/helper.php:1679
+msgid "Papua New Guinean kina (K) — PGK"
+msgstr ""
+
+#: helpers/helper.php:1680
+msgid "Philippine peso (₱) — PHP"
+msgstr ""
+
+#: helpers/helper.php:1681
+msgid "Pakistani rupee (₨) — PKR"
+msgstr ""
+
+#: helpers/helper.php:1682
+msgid "Polish złoty (zł) — PLN"
+msgstr ""
+
+#: helpers/helper.php:1683
+msgid "Paraguayan guarani (Gs) — PYG"
+msgstr ""
+
+#: helpers/helper.php:1684
+msgid "Qatari riyal (ر.ق) — QAR"
+msgstr ""
+
+#: helpers/helper.php:1685
+msgid "Romanian leu (lei) — RON"
+msgstr ""
+
+#: helpers/helper.php:1686
+msgid "Serbian dinar (дин) — RSD"
+msgstr ""
+
+#: helpers/helper.php:1687
+msgid "Russian ruble (₽) — RUB"
+msgstr ""
+
+#: helpers/helper.php:1688
+msgid "Rwandan franc (Fr) — RWF"
+msgstr ""
+
+#: helpers/helper.php:1689
+msgid "Saudi riyal (ر.س) — SAR"
+msgstr ""
+
+#: helpers/helper.php:1690
+msgid "Solomon Islands dollar ($) — SBD"
+msgstr ""
+
+#: helpers/helper.php:1691
+msgid "Seychellois rupee (₨) — SCR"
+msgstr ""
+
+#: helpers/helper.php:1692
+msgid "Swedish krona (kr) — SEK"
+msgstr ""
+
+#: helpers/helper.php:1693
+msgid "Singapore dollar ($) — SGD"
+msgstr ""
+
+#: helpers/helper.php:1694
+msgid "Saint Helena pound (£) — SHP"
+msgstr ""
+
+#: helpers/helper.php:1695
+msgid "Sierra Leonean leone (Le) — SLL"
+msgstr ""
+
+#: helpers/helper.php:1696
+msgid "Somali shilling (Sh) — SOS"
+msgstr ""
+
+#: helpers/helper.php:1697
+msgid "Surinamese dollar (SR$) — SRD"
+msgstr ""
+
+#: helpers/helper.php:1698
+msgid "South Sudanese pound (SS£) — SSP"
+msgstr ""
+
+#: helpers/helper.php:1699
+msgid "São Tomé and Príncipe dobra (Db) — STN"
+msgstr ""
+
+#: helpers/helper.php:1700
+msgid "Syrian pound (£) — SYP"
+msgstr ""
+
+#: helpers/helper.php:1701
+msgid "Swazi lilangeni (E) — SZL"
+msgstr ""
+
+#: helpers/helper.php:1702
+msgid "Thai baht (฿) — THB"
+msgstr ""
+
+#: helpers/helper.php:1703
+msgid "Tajikistani somoni (ЅМ) — TJS"
+msgstr ""
+
+#: helpers/helper.php:1704
+msgid "Turkmenistani manat (m) — TMT"
+msgstr ""
+
+#: helpers/helper.php:1705
+msgid "Tunisian dinar (د.ت) — TND"
+msgstr ""
+
+#: helpers/helper.php:1706
+msgid "Tongan paʻanga (T$) — TOP"
+msgstr ""
+
+#: helpers/helper.php:1707
+msgid "Turkish lira (₺) — TRY"
+msgstr ""
+
+#: helpers/helper.php:1708
+msgid "Trinidad and Tobago dollar (TT$) — TTD"
+msgstr ""
+
+#: helpers/helper.php:1709
+msgid "New Taiwan dollar (NT$) — TWD"
+msgstr ""
+
+#: helpers/helper.php:1710
+msgid "Tanzanian shilling (Sh) — TZS"
+msgstr ""
+
+#: helpers/helper.php:1711
+msgid "Ukrainian hryvnia (₴) — UAH"
+msgstr ""
+
+#: helpers/helper.php:1712
+msgid "Ugandan shilling (Sh) — UGX"
+msgstr ""
+
+#: helpers/helper.php:1713
+msgid "United States dollar ($) — USD"
+msgstr ""
+
+#: helpers/helper.php:1714
+msgid "Uruguayan peso ($) — UYU"
+msgstr ""
+
+#: helpers/helper.php:1715
+msgid "Uzbekistani som (сўм) — UZS"
+msgstr ""
+
+#: helpers/helper.php:1716
+msgid "Venezuelan bolívar (Bs.F) — VEF"
+msgstr ""
+
+#: helpers/helper.php:1717
+msgid "Vietnamese đồng (₫) — VND"
+msgstr ""
+
+#: helpers/helper.php:1718
+msgid "Vanuatu vatu (Vt) — VUV"
+msgstr ""
+
+#: helpers/helper.php:1719
+msgid "Samoan tala (T) — WST"
+msgstr ""
+
+#: helpers/helper.php:1720
+msgid "Central African CFA franc (Fr) — XAF"
+msgstr ""
+
+#: helpers/helper.php:1721
+msgid "East Caribbean dollar ($) — XCD"
+msgstr ""
+
+#: helpers/helper.php:1722
+msgid "West African CFA franc (Fr) — XOF"
+msgstr ""
+
+#: helpers/helper.php:1723
+msgid "CFP franc (Fr) — XPF"
+msgstr ""
+
+#: helpers/helper.php:1724
+msgid "Yemeni rial (﷼) — YER"
+msgstr ""
+
+#: helpers/helper.php:1725
+msgid "South African rand (R) — ZAR"
+msgstr ""
+
+#: helpers/helper.php:1726
+msgid "Zambian kwacha (K) — ZMK"
+msgstr ""
+
+#: helpers/helper.php:1727
+msgid "Zimbabwean dollar (Z$) — ZWL"
+msgstr ""
+
+#: helpers/helper.php:1908
+#: helpers/helper.php:1968
+#: helpers/helper.php:2365
+#: helpers/helper.php:2370
+#: helpers/helper.php:2432
+#: helpers/helper.php:2437
+msgid "per person"
+msgstr ""
+
+#: helpers/helper.php:1908
+#: helpers/helper.php:1968
+msgid "per group"
+msgstr ""
+
+#: helpers/helper.php:2430
+#: helpers/helper.php:2436
+msgid "Starting From "
+msgstr ""
+
+#: helpers/theme_setup.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:58
+msgid "Visa Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:166
+msgid "Blog Sidebar"
+msgstr ""
+
+#: helpers/theme_setup.php:168
+msgid "This sidebar will apply to your blog list and blog details page"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:92
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:202
+#: helpers/woo-hooks-mutated.php:363
+msgid "Add to Cart"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:205
+#: helpers/woo-hooks-mutated.php:366
+msgid "Select Options"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:208
+#: helpers/woo-hooks-mutated.php:369
+msgid "View Options"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:211
+#: helpers/woo-hooks-mutated.php:372
+msgid "Buy Product"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:246
+#: helpers/woo-hooks-mutated.php:403
+msgid "View Cart"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:276
+msgid "No products found."
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:337
+msgid "Related products"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:459
+msgid "Product Details"
+msgstr ""
+
+#: inc/blog/templates/common/grid/info.php:3
+msgid "Read More"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:12
+msgid "By"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:34
+msgid " Views"
+msgstr ""
+
+#: inc/blog/templates/common/single/pagination.php:17
+msgid "Previous Post"
+msgstr ""
+
+#: inc/blog/templates/common/single/pagination.php:30
+msgid "Next Post"
+msgstr ""
+
+#: inc/blog/templates/common/single/post-tags.php:7
+msgid "Tag:"
+msgstr ""
+
+#: inc/blog/templates/common/single/post-tags.php:23
+msgid "Share:"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:33
+#: inc/breadcrumb/templates/breadcrumb-archive.php:65
+#: inc/breadcrumb/templates/breadcrumb-archive.php:77
+#: inc/breadcrumb/templates/breadcrumb-archive.php:83
+#: inc/breadcrumb/templates/breadcrumb-archive.php:93
+#: inc/breadcrumb/templates/breadcrumb-page.php:44
+#: inc/breadcrumb/templates/breadcrumb-product.php:33
+#: inc/breadcrumb/templates/breadcrumb-single.php:31
+msgid "Category: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:36
+#: inc/breadcrumb/templates/breadcrumb-archive.php:79
+#: inc/breadcrumb/templates/breadcrumb-archive.php:85
+#: inc/breadcrumb/templates/breadcrumb-page.php:47
+#: inc/breadcrumb/templates/breadcrumb-product.php:36
+#: inc/breadcrumb/templates/breadcrumb-single.php:34
+msgid "Tag: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:39
+#: inc/breadcrumb/templates/breadcrumb-author.php:32
+#: inc/breadcrumb/templates/breadcrumb-page.php:50
+#: inc/breadcrumb/templates/breadcrumb-product.php:39
+#: inc/breadcrumb/templates/breadcrumb-single.php:37
+msgid "Author: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:42
+#: inc/breadcrumb/templates/breadcrumb-page.php:53
+#: inc/breadcrumb/templates/breadcrumb-product.php:42
+#: inc/breadcrumb/templates/breadcrumb-single.php:40
+msgid "Date: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:55
+msgid "Visa"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:57
+msgid "Tour"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:59
+msgid "Hotel"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:63
+#: inc/hotel/search-filter.php:24
+msgid "Destination"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:67
+msgid "Citizen: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:69
+msgid "Country: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:71
+msgid "Resident: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:73
+msgid "Tour Operated: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:75
+#: inc/breadcrumb/templates/breadcrumb-archive.php:95
+msgid "Type: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:81
+#: inc/breadcrumb/templates/breadcrumb-archive.php:99
+msgid "Service: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:87
+msgid "Amenity: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:89
+#: inc/breadcrumb/templates/breadcrumb-archive.php:103
+msgid "Location: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:91
+#: inc/breadcrumb/templates/breadcrumb-archive.php:97
+msgid "Offer: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:101
+msgid "Continent: "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-product.php:53
+msgid "Products"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-search.php:28
+msgid "Looking For"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-single.php:51
+msgid " Visa"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:9
+msgid "Leave A Comment:"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:11
+msgid "Full Name*"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:12
+msgid "Enter your name"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:14
+msgid "Your Email*"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:15
+msgid "Enter your email"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:17
+msgid "Message*"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:17
+msgid "Your Message"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:22
+#: inc/comments/templates/parts/comment-form.php:27
+#: inc/comments/templates/parts/comment-form.php:36
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:3
+msgid "0 Comment"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:3
+msgid "01 Comment"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:3
+msgid "Comments (%)"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:17
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/content/templates/posts-not-found.php:2
+msgid "Image"
+msgstr ""
+
+#: inc/content/templates/posts-not-found.php:4
+msgid "Sorry, nothing found!"
+msgstr ""
+
+#: inc/content/templates/posts-not-found.php:5
+msgid "Nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: inc/experience/topbar-filter.php:6
+msgid "Unforgettable Activity Await!"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:17
+#: inc/hotel/topbar-filter.php:17
+#: inc/tour/topbar-filter.php:17
+msgid "Filters"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:20
+#: inc/hotel/topbar-filter.php:20
+#: inc/tour/topbar-filter.php:20
+msgid "Sort By"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:22
+#: inc/hotel/topbar-filter.php:22
+#: inc/tour/topbar-filter.php:22
+msgid "Default"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:23
+#: inc/hotel/topbar-filter.php:23
+#: inc/tour/topbar-filter.php:23
+msgid "Latest"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:24
+#: inc/hotel/topbar-filter.php:24
+#: inc/tour/topbar-filter.php:24
+msgid "Price High"
+msgstr ""
+
+#: inc/experience/topbar-filter.php:25
+#: inc/hotel/topbar-filter.php:25
+#: inc/tour/topbar-filter.php:25
+msgid "Price Low"
+msgstr ""
+
+#: inc/footer/helper.php:88
+msgid "© Copyright "
+msgstr ""
+
+#: inc/footer/helper.php:88
+msgid "All Right Reserved"
+msgstr ""
+
+#: inc/footer/templates/parts/footer_eight.php:12
+#: inc/footer/templates/parts/footer_five.php:12
+#: inc/footer/templates/parts/footer_four.php:12
+#: inc/footer/templates/parts/footer_one.php:12
+#: inc/footer/templates/parts/footer_seven.php:12
+#: inc/footer/templates/parts/footer_six.php:12
+#: inc/footer/templates/parts/footer_three.php:12
+#: inc/footer/templates/parts/footer_two.php:12
+msgid "Copyright "
+msgstr ""
+
+#: inc/footer/templates/parts/footer_eight.php:12
+#: inc/footer/templates/parts/footer_five.php:12
+#: inc/footer/templates/parts/footer_four.php:12
+#: inc/footer/templates/parts/footer_one.php:12
+#: inc/footer/templates/parts/footer_seven.php:12
+#: inc/footer/templates/parts/footer_six.php:12
+#: inc/footer/templates/parts/footer_three.php:12
+#: inc/footer/templates/parts/footer_two.php:12
+msgid "Gofly"
+msgstr ""
+
+#: inc/footer/templates/parts/footer_eight.php:12
+#: inc/footer/templates/parts/footer_five.php:12
+#: inc/footer/templates/parts/footer_four.php:12
+#: inc/footer/templates/parts/footer_one.php:12
+#: inc/footer/templates/parts/footer_seven.php:12
+#: inc/footer/templates/parts/footer_six.php:12
+#: inc/footer/templates/parts/footer_three.php:12
+#: inc/footer/templates/parts/footer_two.php:12
+msgid "Design By"
+msgstr ""
+
+#: inc/footer/templates/parts/footer_eight.php:12
+#: inc/footer/templates/parts/footer_five.php:12
+#: inc/footer/templates/parts/footer_four.php:12
+#: inc/footer/templates/parts/footer_one.php:12
+#: inc/footer/templates/parts/footer_seven.php:12
+#: inc/footer/templates/parts/footer_six.php:12
+#: inc/footer/templates/parts/footer_three.php:12
+#: inc/footer/templates/parts/footer_two.php:12
+msgid " Egens Lab"
+msgstr ""
+
+#: inc/header/helper.php:56
+#: inc/header/helper.php:63
+#: inc/header/helper.php:70
+msgid "icon"
+msgstr ""
+
+#: inc/header/helper.php:131
+#: inc/header/helper.php:140
+#: inc/header/helper.php:153
+#: inc/header/helper.php:162
+#: inc/header/helper.php:171
+#: inc/header/helper.php:177
+#: inc/header/helper.php:186
+#: inc/header/helper.php:192
+#: inc/header/helper.php:210
+#: inc/header/helper.php:224
+#: inc/header/helper.php:239
+#: inc/header/helper.php:252
+#: inc/header/helper.php:270
+#: inc/header/helper.php:284
+#: inc/header/helper.php:299
+#: inc/header/helper.php:312
+#: inc/header/templates/parts/header_five.php:125
+#: inc/header/templates/parts/header_four.php:100
+#: inc/header/templates/parts/header_four.php:108
+#: inc/header/templates/parts/header_four.php:117
+#: inc/header/templates/parts/header_four.php:203
+#: inc/header/templates/parts/header_four.php:211
+#: inc/header/templates/parts/header_four.php:220
+#: inc/header/templates/parts/header_one.php:60
+#: inc/header/templates/parts/header_one.php:68
+#: inc/header/templates/parts/header_one.php:77
+#: inc/header/templates/parts/header_one.php:186
+#: inc/header/templates/parts/header_one.php:194
+#: inc/header/templates/parts/header_one.php:203
+#: inc/header/templates/parts/header_seven.php:66
+#: inc/header/templates/parts/header_seven.php:74
+#: inc/header/templates/parts/header_seven.php:83
+#: inc/header/templates/parts/header_seven.php:157
+#: inc/header/templates/parts/header_seven.php:165
+#: inc/header/templates/parts/header_seven.php:174
+#: inc/header/templates/parts/header_six.php:110
+#: inc/header/templates/parts/header_six.php:118
+#: inc/header/templates/parts/header_six.php:127
+#: inc/header/templates/parts/header_six.php:201
+#: inc/header/templates/parts/header_six.php:209
+#: inc/header/templates/parts/header_six.php:218
+#: inc/header/templates/parts/header_three.php:66
+#: inc/header/templates/parts/header_three.php:74
+#: inc/header/templates/parts/header_three.php:83
+#: inc/header/templates/parts/header_three.php:170
+#: inc/header/templates/parts/header_three.php:178
+#: inc/header/templates/parts/header_three.php:187
+#: inc/header/templates/parts/header_two.php:62
+#: inc/header/templates/parts/header_two.php:70
+#: inc/header/templates/parts/header_two.php:79
+#: inc/header/templates/parts/header_two.php:162
+#: inc/header/templates/parts/header_two.php:170
+#: inc/header/templates/parts/header_two.php:179
+msgid "My Account"
+msgstr ""
+
+#: inc/header/templates/parts/header_eight.php:15
+#: inc/header/templates/parts/header_eight.php:19
+#: inc/header/templates/parts/header_five.php:22
+#: inc/header/templates/parts/header_five.php:26
+#: inc/header/templates/parts/header_four.php:54
+#: inc/header/templates/parts/header_four.php:58
+#: inc/header/templates/parts/header_one.php:17
+#: inc/header/templates/parts/header_one.php:21
+#: inc/header/templates/parts/header_seven.php:21
+#: inc/header/templates/parts/header_seven.php:25
+#: inc/header/templates/parts/header_six.php:46
+#: inc/header/templates/parts/header_six.php:50
+#: inc/header/templates/parts/header_six.php:162
+#: inc/header/templates/parts/header_six.php:166
+#: inc/header/templates/parts/header_three.php:19
+#: inc/header/templates/parts/header_three.php:23
+#: inc/header/templates/parts/header_two.php:16
+#: inc/header/templates/parts/header_two.php:20
+msgid "logo-image"
+msgstr ""
+
+#: inc/header/templates/parts/header_eight.php:28
+#: inc/header/templates/parts/header_eight.php:32
+#: inc/header/templates/parts/header_five.php:35
+#: inc/header/templates/parts/header_five.php:39
+#: inc/header/templates/parts/header_four.php:67
+#: inc/header/templates/parts/header_four.php:71
+#: inc/header/templates/parts/header_one.php:111
+#: inc/header/templates/parts/header_one.php:115
+#: inc/header/templates/parts/header_one.php:124
+#: inc/header/templates/parts/header_one.php:128
+#: inc/header/templates/parts/header_seven.php:117
+#: inc/header/templates/parts/header_seven.php:121
+#: inc/header/templates/parts/header_seven.php:130
+#: inc/header/templates/parts/header_seven.php:134
+#: inc/header/templates/parts/header_six.php:175
+#: inc/header/templates/parts/header_six.php:179
+#: inc/header/templates/parts/header_three.php:33
+#: inc/header/templates/parts/header_three.php:37
+#: inc/header/templates/parts/header_two.php:29
+#: inc/header/templates/parts/header_two.php:33
+msgid "mobile-logo"
+msgstr ""
+
+#: inc/header/templates/parts/header_eight.php:108
+msgid "Find Your Perfect Visa Package"
+msgstr ""
+
+#: inc/header/templates/parts/header_eight.php:115
+#: inc/header/templates/parts/header_five.php:108
+#: inc/header/templates/parts/header_four.php:185
+#: inc/header/templates/parts/header_one.php:306
+#: inc/header/templates/parts/header_seven.php:224
+#: inc/header/templates/parts/header_six.php:93
+#: inc/header/templates/parts/header_six.php:268
+#: inc/header/templates/parts/header_three.php:152
+#: inc/header/templates/parts/header_two.php:144
+msgid "Quick Search: "
+msgstr ""
+
+#: inc/header/templates/parts/header_five.php:101
+#: inc/header/templates/parts/header_four.php:178
+#: inc/header/templates/parts/header_one.php:37
+#: inc/header/templates/parts/header_one.php:299
+#: inc/header/templates/parts/header_seven.php:217
+#: inc/header/templates/parts/header_six.php:86
+#: inc/header/templates/parts/header_six.php:261
+#: inc/header/templates/parts/header_three.php:145
+#: inc/header/templates/parts/header_two.php:137
+msgid "Find Your Perfect Tour Package"
+msgstr ""
+
+#: inc/header/templates/parts/header_five.php:133
+#: inc/header/templates/parts/header_four.php:121
+#: inc/header/templates/parts/header_four.php:224
+#: inc/header/templates/parts/header_one.php:81
+#: inc/header/templates/parts/header_one.php:207
+#: inc/header/templates/parts/header_seven.php:87
+#: inc/header/templates/parts/header_seven.php:178
+#: inc/header/templates/parts/header_six.php:131
+#: inc/header/templates/parts/header_six.php:222
+#: inc/header/templates/parts/header_three.php:87
+#: inc/header/templates/parts/header_three.php:191
+#: inc/header/templates/parts/header_two.php:83
+#: inc/header/templates/parts/header_two.php:183
+msgid "Login / Register"
+msgstr ""
+
+#: inc/header/templates/parts/header_four.php:129
+#: inc/header/templates/parts/header_four.php:138
+#: inc/header/templates/parts/header_four.php:232
+#: inc/header/templates/parts/header_four.php:241
+#: inc/header/templates/parts/header_one.php:89
+#: inc/header/templates/parts/header_one.php:98
+#: inc/header/templates/parts/header_one.php:215
+#: inc/header/templates/parts/header_one.php:224
+#: inc/header/templates/parts/header_seven.php:95
+#: inc/header/templates/parts/header_seven.php:104
+#: inc/header/templates/parts/header_seven.php:186
+#: inc/header/templates/parts/header_seven.php:195
+#: inc/header/templates/parts/header_six.php:139
+#: inc/header/templates/parts/header_six.php:148
+#: inc/header/templates/parts/header_six.php:230
+#: inc/header/templates/parts/header_six.php:239
+#: inc/header/templates/parts/header_three.php:95
+#: inc/header/templates/parts/header_three.php:104
+#: inc/header/templates/parts/header_three.php:199
+#: inc/header/templates/parts/header_three.php:208
+#: inc/header/templates/parts/header_two.php:91
+#: inc/header/templates/parts/header_two.php:100
+#: inc/header/templates/parts/header_two.php:191
+#: inc/header/templates/parts/header_two.php:200
+msgid "Login"
+msgstr ""
+
+#: inc/header/templates/parts/header_one.php:144
+#: inc/header/templates/parts/header_one.php:165
+#: inc/header/templates/parts/header_one.php:238
+#: inc/header/templates/parts/header_one.php:259
+msgid "icon-image"
+msgstr ""
+
+#: inc/header/templates/parts/header_seven.php:40
+msgid "Tour Package, Experiences, Destination"
+msgstr ""
+
+#: inc/hotel/search-filter.php:4
+msgid "Find Your Flexible Accommodation"
+msgstr ""
+
+#: inc/hotel/search-filter.php:23
+msgid "Select"
+msgstr ""
+
+#: inc/hotel/search-filter.php:32
+msgid "Type Your Destination"
+msgstr ""
+
+#: inc/hotel/search-filter.php:171
+#: inc/hotel/search-filter.php:177
+msgid "Add Another Room"
+msgstr ""
+
+#: inc/hotel/search-filter.php:190
+#: inc/hotel/search-filter.php:199
+msgid "SEARCH"
+msgstr ""
+
+#: inc/hotel/sidebar-filter.php:46
+msgid "Tags"
+msgstr ""
+
+#: inc/hotel/sidebar-filter.php:69
+msgid "Pricing"
+msgstr ""
+
+#: inc/hotel/sidebar-filter.php:98
+msgid "Amenities"
+msgstr ""
+
+#: inc/hotel/sidebar-filter.php:130
+msgid "Discount & Offer"
+msgstr ""
+
+#: inc/hotel/topbar-filter.php:6
+msgid "Unforgettable Journeys Await!"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:393
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:909
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2615
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3661
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:394
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3241
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:395
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3034
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1016
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1016
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1019
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1203
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3030
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2355
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:83
+#: woocommerce/myaccount/form-login.php:91
+#: woocommerce/myaccount/form-login.php:99
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2358
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2374
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2377
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2380
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2397
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2401
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2403
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2409
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2412
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2415
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2424
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2470
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2592
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2615
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2629
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2630
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2631
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2635
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2636
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2685
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2690
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2766
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2799
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2805
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2808
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2839
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2882
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2990
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3016
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3240
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3589
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3591
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3592
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3597
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3600
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tour/topbar-filter.php:6
+msgid "Unforgettable Journey Await!"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Grid Two Column Template"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Grid Template"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Destination Tab Template"
+msgstr ""
+
+#: page-destination-tab.php:94
+msgid " tours"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Package Grid Template"
+msgstr ""
+
+#: searchform.php:11
+msgid "Enter your keywords"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "User name or Email *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:99
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:76
+#: woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:83
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:40
+#, php-format
+msgid "Review (%1$s) :"
+msgid_plural "Reviews (%1$s) :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:43
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:84
+msgid "Write A Review"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:86
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Submit Now"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Email"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:129
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:137
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:143
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""

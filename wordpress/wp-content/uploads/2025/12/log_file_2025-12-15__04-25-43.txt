@@ -1,0 +1,126 @@
+
+---Downloaded files---
+The import files for: Main were successfully downloaded!
+Initial max execution time = 150
+Files info:
+Site URL = https://quieroweb.dev.empathy.pe
+Data file = /var/www/quierowebwp/wordpress/wp-content/uploads/2025/12/demo-content-import-file_2025-12-15__04-25-43.xml
+Widget file = /var/www/quierowebwp/wordpress/wp-content/uploads/2025/12/demo-widgets-import-file_2025-12-15__04-25-43.json
+Customizer file = /var/www/quierowebwp/wordpress/wp-content/uploads/2025/12/demo-customizer-import-file_2025-12-15__04-25-43.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Bloque - No Title - Imported
+Egns Blog Category - Category - Imported
+Egns Recent Post - Popular Post - Imported
+Egns Blog Tags (Custom) - New Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

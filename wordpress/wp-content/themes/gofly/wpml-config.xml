@@ -1,0 +1,136 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">e-floating-buttons</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">shop_order_placehold</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">flamingo_contact</custom-type>
+    <custom-type translate="1">flamingo_inbound</custom-type>
+    <custom-type translate="1">visa</custom-type>
+    <custom-type translate="1">tour</custom-type>
+    <custom-type translate="1">hotel</custom-type>
+    <custom-type translate="1">experience</custom-type>
+    <custom-type translate="1">destination</custom-type>
+    <custom-type translate="1">mega-menu</custom-type>
+    <custom-type translate="1">footer-blocks</custom-type>
+    <custom-type translate="1">mc4wp-form</custom-type>
+    <custom-type translate="1">review-rating</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">product_brand</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">flamingo_contact_tag</taxonomy>
+    <taxonomy translate="1">flamingo_inbound_channel</taxonomy>
+    <taxonomy translate="1">location</taxonomy>
+    <taxonomy translate="1">visa-category</taxonomy>
+    <taxonomy translate="1">visa-citizenships</taxonomy>
+    <taxonomy translate="1">visa-countries</taxonomy>
+    <taxonomy translate="1">visa-residents</taxonomy>
+    <taxonomy translate="1">tour-pricing-category</taxonomy>
+    <taxonomy translate="1">tour-language</taxonomy>
+    <taxonomy translate="1">tour-type</taxonomy>
+    <taxonomy translate="1">tour-category</taxonomy>
+    <taxonomy translate="1">tour-tag</taxonomy>
+    <taxonomy translate="1">tour-service</taxonomy>
+    <taxonomy translate="1">hotel-category</taxonomy>
+    <taxonomy translate="1">hotel-tag</taxonomy>
+    <taxonomy translate="1">hotel-amenity</taxonomy>
+    <taxonomy translate="1">hotel-location</taxonomy>
+    <taxonomy translate="1">hotel-offer-criterias</taxonomy>
+    <taxonomy translate="1">experience-category</taxonomy>
+    <taxonomy translate="1">experience-type</taxonomy>
+    <taxonomy translate="1">experience-offer</taxonomy>
+    <taxonomy translate="1">experience-service</taxonomy>
+    <taxonomy translate="1">destination-continent</taxonomy>
+    <taxonomy translate="1">destination-location</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">egns_destination_meta_id</custom-field>
+    <custom-field action="copy">egns_experience_meta_id</custom-field>
+    <custom-field action="copy">egns_hotel_meta_id</custom-field>
+    <custom-field action="copy">egns_menu_options</custom-field>
+    <custom-field action="copy">egns_page_options</custom-field>
+    <custom-field action="copy">egns_video_url</custom-field>
+    <custom-field action="copy">egns_gallery_images</custom-field>
+    <custom-field action="copy">egns_thumb_images</custom-field>
+    <custom-field action="copy">egns_quote_text</custom-field>
+    <custom-field action="copy">egns_audio_url</custom-field>
+    <custom-field action="copy">egns_tour_meta_id</custom-field>
+    <custom-field action="copy">egns_visa_meta_id</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="egns_theme_options">
+      <key name="header_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_mobile_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_sidebar_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_one_contact_lists">
+        <key name="0">
+          <key name="header_info_icon">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="header_info_label"/>
+        </key>
+        <key name="1">
+          <key name="header_info_icon">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="header_info_label"/>
+        </key>
+        <key name="2">
+          <key name="header_info_icon">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="header_info_label"/>
+        </key>
+      </key>
+      <key name="header_two_info_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_three_info_label"/>
+      <key name="header_four_info_label"/>
+      <key name="header_five_info_label"/>
+      <key name="header_six_contact_phone_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_six_contact_email_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_eight_info_label"/>
+      <key name="single_post_related_post_section_title"/>
+      <key name="single_post_related_post_sec_desc"/>
+      <key name="tour_inquiry_form_title"/>
+      <key name="hotel_inquiry_form_title"/>
+      <key name="exp_inquiry_form_title"/>
+      <key name="404_title"/>
+      <key name="404_content"/>
+      <key name="404_button_text"/>
+    </key>
+  </admin-texts>
+</wpml-config>
